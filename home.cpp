@@ -72,7 +72,7 @@ void studentManager() {
                     for (const auto& s : students)
                         s.save(outFile);
                     outFile.close();
-                    cout << "✅ Data saved to students.txt\n";
+                    cout << "Data saved to students.txt\n";
                     break;
                 }
 
