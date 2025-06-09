@@ -89,7 +89,7 @@ void studentManager() {
                         students.push_back(s);
                     }
                     inFile.close();
-                    cout << "✅ Data loaded from students.txt\n";
+                    cout << " Data loaded from students.txt\n";
                     break;
                 }
 
