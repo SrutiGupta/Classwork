@@ -98,7 +98,7 @@ void studentManager() {
                     break;
 
                 default:
-                    cout << "❌ Invalid choice.\n";
+                    cout << "Invalid choice.\n";
             }
         } catch (const exception& e) {
             cerr << "⚠️ Error: " << e.what() << endl;
