@@ -101,7 +101,7 @@ void studentManager() {
                     cout << "Invalid choice.\n";
             }
         } catch (const exception& e) {
-            cerr << "⚠️ Error: " << e.what() << endl;
+            cerr << " Error: " << e.what() << endl;
         }
 
     } while (choice != 5);
