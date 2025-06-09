@@ -94,7 +94,7 @@ void studentManager() {
                 }
 
                 case 5:
-                    cout << "👋 Exiting...\n";
+                    cout << "Exiting...\n";
                     break;
 
                 default:
