@@ -46,7 +46,7 @@ void studentManager() {
     int choice;
 
     do {
-        cout << "\n📘 Student Management Menu:\n";
+        cout << "\nStudent Management Menu:\n";
         cout << "1. Add Student\n2. Display All\n3. Save to File\n4. Load from File\n5. Exit\n";
         cout << "Choose: ";
         cin >> choice;
