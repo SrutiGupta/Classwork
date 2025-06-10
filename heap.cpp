@@ -37,6 +37,5 @@ int main() {
 
     heapSort(arr, n);
     printArray(arr, n);
-
     return 0;
 }
