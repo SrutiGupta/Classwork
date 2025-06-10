@@ -1,3 +1,4 @@
+//Insertion Sort 
 #include <iostream>
 using namespace std;
 void insertionSort(int arr[], int n) {
@@ -11,7 +12,6 @@ void insertionSort(int arr[], int n) {
         arr[j + 1] = key;
     }
 }
-
 void printArray(int arr[], int n) {
     cout << "Sorted array: ";
     for (int i = 0; i < n; i++)
