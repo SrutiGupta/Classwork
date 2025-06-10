@@ -35,7 +35,6 @@ void mergeSort(vector<int>& arr, int left, int right) {
     }
 }
 
-// Print the array
 void printArray(const vector<int>& arr) {
     for (int num : arr)
         cout << num << " ";
