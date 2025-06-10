@@ -40,8 +40,6 @@ void printArray(const vector<int>& arr) {
         cout << num << " ";
     cout << endl;
 }
-
-// Driver code
 int main() {
     vector<int> arr = {38, 27, 43, 3, 9, 82, 10};
 
