@@ -18,7 +18,6 @@ void printArray(int arr[], int n) {
         cout << arr[i] << " ";
     cout << endl;
 }
-
 int main() {
     int arr[] = {9, 5, 1, 4, 3};
     int n = sizeof(arr) / sizeof(arr[0]);
